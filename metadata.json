@@ -1,0 +1,6 @@
+{
+  "name": "ProtectionIQ",
+  "description": "Financial decision tool for India to calculate human life value protection gap, analyze policy IRR/NPV, run live scenarios, and get AI policy summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
